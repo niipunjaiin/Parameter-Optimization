@@ -25,7 +25,7 @@ This project demonstrates how to optimize Support Vector Machine (SVM) classifie
 
 ## 📈 Convergence Graph
 
-![Convergence Graph](convergence_plot.png)
+![Convergence Graph](Convergence_plot.png)
 
 ---
 
